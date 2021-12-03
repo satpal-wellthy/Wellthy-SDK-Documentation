@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:wellthy.care.wellthysdk////PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/index.html
+$dokka.location:wellthy.care.wellthysdk/IWellthySDK///PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.html
+$dokka.location:wellthy.care.wellthysdk/IWellthySDK/authSDK/#android.content.Context/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/auth-s-d-k.html
+$dokka.location:wellthy.care.wellthysdk/IWellthySDK/logDiary/#kotlin.String/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/log-diary.html
+$dokka.location:wellthy.care.wellthysdk/IWellthySDK/register/#kotlin.String#kotlin.String#kotlin.String#kotlin.String?#kotlin.Float?#kotlin.Float?#kotlin.String?#kotlin.String?#kotlin.String?/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/register.html
+$dokka.location:wellthy.care.wellthysdk/WellthySDK///PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.html
+$dokka.location:wellthy.care.wellthysdk/WellthySDK/authSDK/#android.content.Context/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/auth-s-d-k.html
+$dokka.location:wellthy.care.wellthysdk/WellthySDK/cancelApiCalls/#/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/cancel-api-calls.html
+$dokka.location:wellthy.care.wellthysdk/WellthySDK/logDiary/#kotlin.String/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/log-diary.html
+$dokka.location:wellthy.care.wellthysdk/WellthySDK/register/#kotlin.String#kotlin.String#kotlin.String#kotlin.String?#kotlin.Float?#kotlin.Float?#kotlin.String?#kotlin.String?#kotlin.String?/PointingToDeclaration/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/register.html
+wellthy.care.wellthysdk
+

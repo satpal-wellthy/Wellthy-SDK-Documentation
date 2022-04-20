@@ -10,11 +10,11 @@ title: register
 
 
 [androidJvm]\
-abstract fun [register](register.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, age: [Float](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)? = null, weight: [Float](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)? = null, weightUnit: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, height: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, heightUnit: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[RegisterAPIResponse](../../wellthy.care.wellthysdk.data/-register-a-p-i-response/index.html)&gt;
+abstract fun [register](register.html)(registerData: [RegisterDataModel](../../wellthy.care.wellthysdk.data.onboarding/-register-data-model/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 
-Method to register a patient on wellthy. To be called only if the user is not registered else
+Method to register a patient on wellthy. To be called only if the user is not registered else call login
 
 
 
@@ -22,7 +22,7 @@ Method to register a patient on wellthy. To be called only if the user is not re
 
 
 
-returns live data which will give
+live data with BaseResponse
 
 
 
@@ -33,8 +33,9 @@ androidJvm
 
 | | |
 |---|---|
+| [wellthy.care.wellthysdk.data.onboarding.RegisterDataModel](../../wellthy.care.wellthysdk.data.onboarding/-register-data-model/index.html) |  |
+| [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
 | [wellthy.care.wellthysdk.IWellthySDK](login.html) |  |
-| [wellthy.care.wellthysdk.data.RegisterAPIResponse](../../wellthy.care.wellthysdk.data/-register-a-p-i-response/index.html) |  |
 
 
 
@@ -45,24 +46,8 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code: mandatory field |
-| phone | phone no of user: mandatory field |
-| userName | name of user: mandatory field |
-| deviceId | device id: optional field |
-| age | age: optional field |
-| weight | weight: optional field |
-| weightUnit | weightUnit: optional field |
-| height | height: optional field |
-| heightUnit | heightUnit: optional field |
+| registerData | model data class to add mandatory and optional fields |
 
-
-
-## Throws
-
-
-| | |
-|---|---|
-|  |  |
 
 
 

@@ -16,3 +16,11 @@ title: wellthy.care.wellthysdk.utils
 |---|---|
 | [Constants](-constants/index.html) | [androidJvm]<br>object [Constants](-constants/index.html) |
 
+
+## Functions
+
+
+| Name | Summary |
+|---|---|
+| [printSDKIdentifier](print-s-d-k-identifier.html) | [androidJvm]<br>fun [Constants](-constants/index.html).[printSDKIdentifier](print-s-d-k-identifier.html)() |
+

@@ -10,7 +10,7 @@ title: autoIntegrate
 
 
 [androidJvm]\
-abstract fun [autoIntegrate](auto-integrate.html)(context: [Context](https://developer.android.com/reference/kotlin/android/content/Context.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[ValidateSDKResponse](../../wellthy.care.wellthysdk.data/-validate-s-d-k-response/index.html)&gt;
+abstract fun [autoIntegrate](auto-integrate.html)(context: [Context](https://developer.android.com/reference/kotlin/android/content/Context.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 
@@ -22,7 +22,18 @@ Method to initialize and auto integrate Wellthy SDK. To be called in onCreate
 
 
 
-returns nothing
+BaseResponse with Status code
+
+
+
+## See also
+
+
+androidJvm
+
+| | |
+|---|---|
+| [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
 
 
 
@@ -35,14 +46,6 @@ androidJvm
 |---|---|
 | context | this is the context of Activity that is initializing SDK |
 
-
-
-## Throws
-
-
-| | |
-|---|---|
-|  |  |
 
 
 

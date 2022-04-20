@@ -18,7 +18,7 @@ title: inValidateSDK
 
 
 
-abstract suspend fun [inValidateSDK](in-validate-s-d-k.html)(@HeaderMaprequestMap: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;): Response&lt;[ValidateSDKResponse](../../wellthy.care.wellthysdk.data/-validate-s-d-k-response/index.html)?&gt;
+abstract suspend fun [inValidateSDK](in-validate-s-d-k.html)(@HeaderMaprequestMap: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;): Response&lt;[ValidateSDKResponse](../../wellthy.care.wellthysdk.data.onboarding/-validate-s-d-k-response/index.html)?&gt;
 
 
 

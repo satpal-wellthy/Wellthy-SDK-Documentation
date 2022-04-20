@@ -10,7 +10,7 @@ title: login
 
 
 [androidJvm]\
-open override fun [login](login.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[RegisterAPIResponse](../../wellthy.care.wellthysdk.data/-register-a-p-i-response/index.html)&gt;
+open override fun [login](login.html)(loginData: [LoginDataModel](../../wellthy.care.wellthysdk.data.onboarding/-login-data-model/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 
@@ -22,7 +22,7 @@ Method to login an already registered patient on wellthy platform
 
 
 
-returns live data which will give
+live data with BaseResponse
 
 
 
@@ -33,7 +33,9 @@ androidJvm
 
 | | |
 |---|---|
-| [wellthy.care.wellthysdk.data.RegisterAPIResponse](../../wellthy.care.wellthysdk.data/-register-a-p-i-response/index.html) |  |
+| [wellthy.care.wellthysdk.data.onboarding.LoginDataModel](../../wellthy.care.wellthysdk.data.onboarding/-login-data-model/index.html) |  |
+| [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
+| [wellthy.care.wellthysdk.WellthySDK](register.html) |  |
 
 
 
@@ -44,17 +46,8 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code: mandatory field |
-| phone | phone no of user: mandatory field |
+| loginData | model data class to add countryCode and phone : mandatory fields |
 
-
-
-## Throws
-
-
-| | |
-|---|---|
-|  |  |
 
 
 

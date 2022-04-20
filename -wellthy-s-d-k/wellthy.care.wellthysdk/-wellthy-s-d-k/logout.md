@@ -22,16 +22,8 @@ Method to unregister Wellthy SDK. To be called on App logout
 
 
 
-returns nothing
+nothing
 
-
-
-## Throws
-
-
-| | |
-|---|---|
-|  |  |
 
 
 

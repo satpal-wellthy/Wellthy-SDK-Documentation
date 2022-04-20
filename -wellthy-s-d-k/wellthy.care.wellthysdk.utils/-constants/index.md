@@ -22,3 +22,11 @@ object [Constants](index.html)
 | [BASE_URL](-b-a-s-e_-u-r-l.html) | [androidJvm]<br>const val [BASE_URL](-b-a-s-e_-u-r-l.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [TAG](-t-a-g.html) | [androidJvm]<br>const val [TAG](-t-a-g.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 
+
+## Extensions
+
+
+| Name | Summary |
+|---|---|
+| [printSDKIdentifier](../print-s-d-k-identifier.html) | [androidJvm]<br>fun [Constants](index.html).[printSDKIdentifier](../print-s-d-k-identifier.html)() |
+

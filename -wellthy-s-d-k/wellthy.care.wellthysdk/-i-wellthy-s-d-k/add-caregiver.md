@@ -1,0 +1,52 @@
+---
+title: addCaregiver
+---
+//[WellthySDK](../../../index.html)/[wellthy.care.wellthysdk](../index.html)/[IWellthySDK](index.html)/[addCaregiver](add-caregiver.html)
+
+
+
+# addCaregiver
+
+
+
+[androidJvm]\
+abstract fun [addCaregiver](add-caregiver.html)(careGiverData: [CareGiverDataModel](../../wellthy.care.wellthysdk.data.profile.you/-care-giver-data-model/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
+
+
+
+Method to add caregiver data
+
+
+
+#### Return
+
+
+
+live data with BaseResponse
+
+
+
+## See also
+
+
+androidJvm
+
+| | |
+|---|---|
+| [wellthy.care.wellthysdk.data.profile.you.CareGiverDataModel](../../wellthy.care.wellthysdk.data.profile.you/-care-giver-data-model/index.html) |  |
+| [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| careGiverData | model data class to add caregiver details : mandatory fields |
+
+
+
+

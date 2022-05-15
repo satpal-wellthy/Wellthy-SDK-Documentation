@@ -15,6 +15,7 @@ title: wellthy.care.wellthysdk.utils
 | Name | Summary |
 |---|---|
 | [Constants](-constants/index.html) | [androidJvm]<br>object [Constants](-constants/index.html) |
+| [WellthyPrefs](-wellthy-prefs/index.html) | [androidJvm]<br>object [WellthyPrefs](-wellthy-prefs/index.html) |
 
 
 ## Functions

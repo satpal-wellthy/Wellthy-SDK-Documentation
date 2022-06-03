@@ -10,7 +10,7 @@ title: RegisterResponse
 
 
 [androidJvm]\
-fun [RegisterResponse](-register-response.html)(status: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, data: [RegisterResponse.Data](-data/index.html)? = null, language: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, successCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, warnings: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RegisterResponse.Warnings](-warnings/index.html)&gt;? = null)
+fun [RegisterResponse](-register-response.html)(status: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, data: [RegisterResponse.Data](-data/index.html)? = null, language: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, successCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, warnings: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RegisterResponse.Warnings](-warnings/index.html)&gt;? = null, sdk_version: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "WellthySDK-${BuildConfig.VERSION_NAME}-${BuildConfig.VERSION_CODE}-android")
 
 
 

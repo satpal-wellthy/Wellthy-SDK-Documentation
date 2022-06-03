@@ -10,7 +10,7 @@ title: heightUnit
 
 
 [androidJvm]\
-var [heightUnit](height-unit.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [heightUnit](height-unit.html): [HeightUnit](../-height-unit/index.html)? = null
 
 
 

@@ -28,6 +28,7 @@ open class [BaseApiResponse](index.html)
 | Name |
 |---|
 | [DiaryLogResponse](../../wellthy.care.wellthysdk.data.diary/-diary-log-response/index.html) |
+| [DiaryPriorityListingResponse](../../wellthy.care.wellthysdk.data.diary/-diary-priority-listing-response/index.html) |
 | [RegisterResponse](../../wellthy.care.wellthysdk.data.onboarding/-register-response/index.html) |
 | [ValidateSDKResponse](../../wellthy.care.wellthysdk.data.onboarding/-validate-s-d-k-response/index.html) |
 

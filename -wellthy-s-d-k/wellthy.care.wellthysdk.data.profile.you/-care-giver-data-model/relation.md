@@ -10,7 +10,7 @@ title: relation
 
 
 [androidJvm]\
-var [relation](relation.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [relation](relation.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
 
 

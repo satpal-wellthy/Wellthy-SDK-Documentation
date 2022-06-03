@@ -10,7 +10,7 @@ title: height_unit
 
 
 [androidJvm]\
-var [height_unit](height_unit.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [height_unit](height_unit.html): [HeightUnit](../../wellthy.care.wellthysdk.data.onboarding/-height-unit/index.html)? = null
 
 
 

@@ -10,7 +10,7 @@ title: weightUnit
 
 
 [androidJvm]\
-var [weightUnit](weight-unit.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [weightUnit](weight-unit.html): [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null
 
 
 

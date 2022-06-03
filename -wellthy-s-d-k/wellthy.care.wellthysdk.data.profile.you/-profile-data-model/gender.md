@@ -10,7 +10,7 @@ title: gender
 
 
 [androidJvm]\
-var [gender](gender.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [gender](gender.html): [Gender](../-gender/index.html)? = null
 
 
 

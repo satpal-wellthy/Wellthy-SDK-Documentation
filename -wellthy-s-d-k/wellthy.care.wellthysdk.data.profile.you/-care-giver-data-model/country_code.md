@@ -10,7 +10,7 @@ title: country_code
 
 
 [androidJvm]\
-var [country_code](country_code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [country_code](country_code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
 
 

@@ -28,5 +28,6 @@ object [Constants](index.html)
 
 | Name | Summary |
 |---|---|
+| [generateUniqueTrackId](../generate-unique-track-id.html) | [androidJvm]<br>fun [Constants](index.html).[generateUniqueTrackId](../generate-unique-track-id.html)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [printSDKIdentifier](../print-s-d-k-identifier.html) | [androidJvm]<br>fun [Constants](index.html).[printSDKIdentifier](../print-s-d-k-identifier.html)() |
 

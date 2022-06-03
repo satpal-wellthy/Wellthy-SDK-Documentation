@@ -10,7 +10,7 @@ title: CareGiverDataModel
 
 
 [androidJvm]\
-fun [CareGiverDataModel](-care-giver-data-model.html)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, gender: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, relation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+fun [CareGiverDataModel](-care-giver-data-model.html)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), gender: [Gender](../-gender/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), relation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 
 
@@ -21,12 +21,12 @@ androidJvm
 
 | | |
 |---|---|
-| name | : String? |
-| email | : String? |
-| gender | : String? |
-| phone | : String? |
-| country_code | : String? |
-| relation | : String? |
+| name | : String |
+| email | : String |
+| gender | : Gender |
+| phone | : String |
+| country_code | : String |
+| relation | : String |
 
 
 

@@ -33,6 +33,7 @@ androidJvm
 
 | | |
 |---|---|
+| [wellthy.care.wellthysdk.data.diary.MealSearchRequestModel](../../wellthy.care.wellthysdk.data.diary/-meal-search-request-model/index.html) |  |
 | [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
 
 

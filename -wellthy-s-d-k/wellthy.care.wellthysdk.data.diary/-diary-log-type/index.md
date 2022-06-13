@@ -19,6 +19,7 @@ enum [DiaryLogType](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm/s
 
 | | |
 |---|---|
+| [LAB_REPORT](-l-a-b_-r-e-p-o-r-t/index.html) | [androidJvm]<br>[LAB_REPORT](-l-a-b_-r-e-p-o-r-t/index.html)("lab_report") |
 | [MEAL](-m-e-a-l/index.html) | [androidJvm]<br>[MEAL](-m-e-a-l/index.html)("meal") |
 | [SYMPTOMS](-s-y-m-p-t-o-m-s/index.html) | [androidJvm]<br>[SYMPTOMS](-s-y-m-p-t-o-m-s/index.html)("symptoms") |
 | [ACTIVITY](-a-c-t-i-v-i-t-y/index.html) | [androidJvm]<br>[ACTIVITY](-a-c-t-i-v-i-t-y/index.html)("activity") |

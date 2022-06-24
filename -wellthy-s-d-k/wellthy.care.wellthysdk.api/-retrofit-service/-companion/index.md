@@ -19,5 +19,5 @@ object [Companion](index.html)
 
 | Name | Summary |
 |---|---|
-| [getInstance](get-instance.html) | [androidJvm]<br>fun [getInstance](get-instance.html)(): [ApiInterface](../../-api-interface/index.html) |
+| [getInstance](get-instance.html) | [androidJvm]<br>fun [getInstance](get-instance.html)(_context: [Context](https://developer.android.com/reference/kotlin/android/content/Context.html)? = null): [ApiInterface](../../-api-interface/index.html) |
 

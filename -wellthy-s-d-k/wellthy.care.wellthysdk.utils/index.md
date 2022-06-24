@@ -15,6 +15,8 @@ title: wellthy.care.wellthysdk.utils
 | Name | Summary |
 |---|---|
 | [Constants](-constants/index.html) | [androidJvm]<br>object [Constants](-constants/index.html) |
+| [GoogleFitSyncingManager](-google-fit-syncing-manager/index.html) | [androidJvm]<br>class [GoogleFitSyncingManager](-google-fit-syncing-manager/index.html) |
+| [IGoogleFitSyncingCallbacks](-i-google-fit-syncing-callbacks/index.html) | [androidJvm]<br>interface [IGoogleFitSyncingCallbacks](-i-google-fit-syncing-callbacks/index.html) |
 | [WellthyPrefs](-wellthy-prefs/index.html) | [androidJvm]<br>object [WellthyPrefs](-wellthy-prefs/index.html) |
 
 

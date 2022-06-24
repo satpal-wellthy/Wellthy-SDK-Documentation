@@ -10,7 +10,7 @@ title: syncGoogleFitData
 
 
 [androidJvm]\
-open override fun [syncGoogleFitData](sync-google-fit-data.html)(): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
+open override fun [syncGoogleFitData](sync-google-fit-data.html)(context: [Activity](https://developer.android.com/reference/kotlin/android/app/Activity.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 

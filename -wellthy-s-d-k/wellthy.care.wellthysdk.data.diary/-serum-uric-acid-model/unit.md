@@ -10,7 +10,7 @@ title: unit
 
 
 [androidJvm]\
-var [unit](unit.html): [UrineCreatinineUnit](../-urine-creatinine-unit/index.html)
+var [unit](unit.html): [SerumUricAcidUnit](../-serum-uric-acid-unit/index.html)
 
 
 

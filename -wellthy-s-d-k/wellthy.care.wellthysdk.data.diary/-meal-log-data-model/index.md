@@ -10,7 +10,7 @@ title: MealLogDataModel
 
 
 [androidJvm]\
-data class [MealLogDataModel](index.html)(mealType: [MealType](../-meal-type/index.html), foodData: [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [MealsMoods](../-meals-moods/index.html)?)
+data class [MealLogDataModel](index.html)(mealType: [MealType](../-meal-type/index.html), foodData: &lt;ERROR CLASS&gt;&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [MealsMoods](../-meals-moods/index.html)?)
 
 Data class to enter data for addMealLog and updateMealLog function
 
@@ -59,7 +59,7 @@ androidJvm
 
 | | |
 |---|---|
-| [MealLogDataModel](-meal-log-data-model.html) | [androidJvm]<br>fun [MealLogDataModel](-meal-log-data-model.html)(mealType: [MealType](../-meal-type/index.html), foodData: [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [MealsMoods](../-meals-moods/index.html)? = null) |
+| [MealLogDataModel](-meal-log-data-model.html) | [androidJvm]<br>fun [MealLogDataModel](-meal-log-data-model.html)(mealType: [MealType](../-meal-type/index.html), foodData: &lt;ERROR CLASS&gt;&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [MealsMoods](../-meals-moods/index.html)? = null) |
 
 
 ## Properties
@@ -67,7 +67,7 @@ androidJvm
 
 | Name | Summary |
 |---|---|
-| [foodData](food-data.html) | [androidJvm]<br>var [foodData](food-data.html): [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[MealFoodItem](../-meal-food-item/index.html)&gt; |
+| [foodData](food-data.html) | [androidJvm]<br>var [foodData](food-data.html): &lt;ERROR CLASS&gt;&lt;[MealFoodItem](../-meal-food-item/index.html)&gt; |
 | [latitude](latitude.html) | [androidJvm]<br>var [latitude](latitude.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
 | [location_name](location_name.html) | [androidJvm]<br>var [location_name](location_name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
 | [log_date](log_date.html) | [androidJvm]<br>var [log_date](log_date.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

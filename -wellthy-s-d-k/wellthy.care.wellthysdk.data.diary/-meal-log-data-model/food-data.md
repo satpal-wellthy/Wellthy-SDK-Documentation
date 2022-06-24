@@ -10,7 +10,7 @@ title: foodData
 
 
 [androidJvm]\
-var [foodData](food-data.html): [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;
+var [foodData](food-data.html): &lt;ERROR CLASS&gt;&lt;[MealFoodItem](../-meal-food-item/index.html)&gt;
 
 
 

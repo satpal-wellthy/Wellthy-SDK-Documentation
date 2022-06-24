@@ -10,7 +10,7 @@ title: getInstance
 
 
 [androidJvm]\
-fun [getInstance](get-instance.html)(): [ApiInterface](../../-api-interface/index.html)
+fun [getInstance](get-instance.html)(_context: [Context](https://developer.android.com/reference/kotlin/android/content/Context.html)? = null): [ApiInterface](../../-api-interface/index.html)
 
 
 

@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="">
+    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="v1.0.1 update Jekyll">
       <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.base/-base-api-response/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.base/-base-api-response/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-diary-log-type/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-diary-log-type/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/search-meal.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/search-meal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/search-meal.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/search-meal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="settings.editor.selected.configurable" value="dev.polek.adbwifi.settings.AdbWifiConfigurable" />
@@ -67,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648698505022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v1.0.1 update Jekyll">
+      <created>1655099530855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655099530855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -93,6 +94,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="v1.0.1 update" />
     <MESSAGE value="v1.0.1 update Jekyll" />
     <option name="LAST_COMMIT_MESSAGE" value="v1.0.1 update Jekyll" />

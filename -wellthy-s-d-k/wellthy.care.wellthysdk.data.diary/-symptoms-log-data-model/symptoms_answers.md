@@ -10,7 +10,7 @@ title: symptoms_answers
 
 
 [androidJvm]\
-var [symptoms_answers](symptoms_answers.html): [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[SymptomAnswers](../-symptom-answers/index.html)&gt;
+var [symptoms_answers](symptoms_answers.html): &lt;ERROR CLASS&gt;&lt;[SymptomAnswers](../-symptom-answers/index.html)&gt;
 
 
 

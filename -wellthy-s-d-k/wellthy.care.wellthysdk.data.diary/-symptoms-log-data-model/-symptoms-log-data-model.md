@@ -10,7 +10,7 @@ title: SymptomsLogDataModel
 
 
 [androidJvm]\
-fun [SymptomsLogDataModel](-symptoms-log-data-model.html)(log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, symptoms_answers: [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[SymptomAnswers](../-symptom-answers/index.html)&gt;)
+fun [SymptomsLogDataModel](-symptoms-log-data-model.html)(log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, symptoms_answers: &lt;ERROR CLASS&gt;&lt;[SymptomAnswers](../-symptom-answers/index.html)&gt;)
 
 
 

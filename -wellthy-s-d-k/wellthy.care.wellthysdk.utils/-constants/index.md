@@ -20,6 +20,7 @@ object [Constants](index.html)
 | Name | Summary |
 |---|---|
 | [BASE_URL](-b-a-s-e_-u-r-l.html) | [androidJvm]<br>const val [BASE_URL](-b-a-s-e_-u-r-l.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [FIT_PACKAGE_NAME](-f-i-t_-p-a-c-k-a-g-e_-n-a-m-e.html) | [androidJvm]<br>val [FIT_PACKAGE_NAME](-f-i-t_-p-a-c-k-a-g-e_-n-a-m-e.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [TAG](-t-a-g.html) | [androidJvm]<br>const val [TAG](-t-a-g.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 
 

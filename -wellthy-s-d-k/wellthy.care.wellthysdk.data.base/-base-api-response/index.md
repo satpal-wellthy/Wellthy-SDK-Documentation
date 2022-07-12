@@ -31,6 +31,8 @@ open class [BaseApiResponse](index.html)
 | [DiaryPriorityListingResponse](../../wellthy.care.wellthysdk.data.diary/-diary-priority-listing-response/index.html) |
 | [CareyInsightResponse](../../wellthy.care.wellthysdk.data.diary/-carey-insight-response/index.html) |
 | [DiaryListingResponse](../../wellthy.care.wellthysdk.data.diary/-diary-listing-response/index.html) |
+| [DailyGoalsTargetResponse](../../wellthy.care.wellthysdk.data.diary/-daily-goals-target-response/index.html) |
+| [CareyInsightDetailResponse](../../wellthy.care.wellthysdk.data.diary/-carey-insight-detail-response/index.html) |
 | [RegisterResponse](../../wellthy.care.wellthysdk.data.onboarding/-register-response/index.html) |
 | [ValidateSDKResponse](../../wellthy.care.wellthysdk.data.onboarding/-validate-s-d-k-response/index.html) |
 

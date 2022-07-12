@@ -14,4 +14,27 @@ abstract fun [isGoogleFitInstalled](is-google-fit-installed.html)(context: [Cont
 
 
 
+Method to check if google fit app is installed
+
+
+
+#### Return
+
+
+
+intalled status as Boolean
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| context | Activity Context |
+
+
+
 

@@ -14,6 +14,8 @@ fun [write](write.html)(key: [String](https://kotlinlang.org/api/latest/jvm/stdl
 
 fun [write](write.html)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html))
 
+fun [write](write.html)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
+
 
 
 

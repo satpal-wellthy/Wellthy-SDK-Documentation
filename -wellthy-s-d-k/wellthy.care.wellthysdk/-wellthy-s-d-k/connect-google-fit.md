@@ -14,4 +14,27 @@ open override fun [connectGoogleFit](connect-google-fit.html)(context: [Activity
 
 
 
+Method to connect google fit , This will open dialog with logged in email ids to authenticat
+
+
+
+#### Return
+
+
+
+live data with BaseResponse
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| context | Activity Contexte |
+
+
+
 

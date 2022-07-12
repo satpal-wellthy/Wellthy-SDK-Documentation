@@ -14,4 +14,27 @@ open override fun [isGoogleFitPermissionGranted](is-google-fit-permission-grante
 
 
 
+Method to check if google fit permission is granted or not, For android devices lower than android 10 this function will always return true as this permission is not required below 10
+
+
+
+#### Return
+
+
+
+permission status as Boolean
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| context | Activity Context |
+
+
+
 

@@ -14,4 +14,27 @@ open override fun [askForGoogleFitPermission](ask-for-google-fit-permission.html
 
 
 
+Method to ask for permission for Activity_Recognition on android 10 and above
+
+
+
+#### Return
+
+
+
+live data with BaseResponse
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| context | Activity Context |
+
+
+
 

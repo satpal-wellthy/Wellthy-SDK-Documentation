@@ -14,4 +14,27 @@ open override fun [isGoogleFitInstalled](is-google-fit-installed.html)(context: 
 
 
 
+Method to check if google fit app is installed
+
+
+
+#### Return
+
+
+
+intalled status as Boolean
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| context | Activity Context |
+
+
+
 

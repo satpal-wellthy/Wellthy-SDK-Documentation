@@ -10,7 +10,7 @@ title: RegisterDataModel
 
 
 [androidJvm]\
-fun [RegisterDataModel](-register-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weightUnit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, heightUnit: [HeightUnit](../-height-unit/index.html)? = null)
+fun [RegisterDataModel](-register-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weightUnit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, heightUnit: [HeightUnit](../-height-unit/index.html)? = null, campaignId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
 
 
 
@@ -30,6 +30,7 @@ androidJvm
 | weightUnit | WeightUnit : "kg" / "lbs": optional |
 | height | height: optional |
 | heightUnit | HeightUnit : "cm" / "feet" : optional |
+| campaignId | Campaign Id to activate the patient therapy: Optional : If not provided it will activate the default therapy |
 
 
 

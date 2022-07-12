@@ -18,11 +18,11 @@ title: getCareyInsightSummary
 
 
 
-@POST(value = "/insight/judgement")
+@POST
 
 
 
-abstract suspend fun [getCareyInsightSummary](get-carey-insight-summary.html)(@FieldMaprequestMap: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;): Response&lt;[CareyInsightResponse](../../wellthy.care.wellthysdk.data.diary/-carey-insight-response/index.html)?&gt;
+abstract suspend fun [getCareyInsightSummary](get-carey-insight-summary.html)(@Urlurl: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), @FieldMaprequestMap: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;): Response&lt;[CareyInsightResponse](../../wellthy.care.wellthysdk.data.diary/-carey-insight-response/index.html)?&gt;
 
 
 

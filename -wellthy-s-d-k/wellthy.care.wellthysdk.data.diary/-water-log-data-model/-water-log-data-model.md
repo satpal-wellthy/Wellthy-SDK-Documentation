@@ -10,7 +10,7 @@ title: WaterLogDataModel
 
 
 [androidJvm]\
-fun [WaterLogDataModel](-water-log-data-model.html)(quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), unit: [WaterUnit](../-water-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [WaterMoods](../-water-moods/index.html)? = null)
+fun [WaterLogDataModel](-water-log-data-model.html)(quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), unit: [WaterUnit](../-water-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [WaterMood](../-water-mood/index.html)? = null)
 
 
 
@@ -27,7 +27,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : WaterMoods? = null |
+| mood | : WaterMood? = null |
 
 
 

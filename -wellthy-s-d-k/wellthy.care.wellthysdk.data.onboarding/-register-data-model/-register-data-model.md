@@ -10,7 +10,7 @@ title: RegisterDataModel
 
 
 [androidJvm]\
-fun [RegisterDataModel](-register-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weightUnit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, heightUnit: [HeightUnit](../-height-unit/index.html)? = null, campaignId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+fun [RegisterDataModel](-register-data-model.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weight_unit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, height_unit: [HeightUnit](../-height-unit/index.html)? = null, campaign_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
 
 
 
@@ -21,16 +21,16 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code eg (+91/91 for India): mandatory |
+| country_code | Country ISD code eg (+91/91 for India): mandatory |
 | phone | phone no of user: mandatory |
-| userName | name of user: mandatory |
+| name | name of user: mandatory |
 | deviceId | device id: unique device identifier: optional |
 | dob | dob: pass dob in YYYY-MM-dd format: optional |
 | weight | weight: Int:  optional |
-| weightUnit | WeightUnit : "kg" / "lbs": optional |
+| weight_unit | WeightUnit : "kg" / "lbs": optional |
 | height | height: optional |
-| heightUnit | HeightUnit : "cm" / "feet" : optional |
-| campaignId | Campaign Id to activate the patient therapy: Optional : If not provided it will activate the default therapy |
+| height_unit | HeightUnit : "cm" / "feet" : optional |
+| campaign_id | Campaign Id to activate the patient therapy: Optional : If not provided it will activate the default therapy |
 
 
 

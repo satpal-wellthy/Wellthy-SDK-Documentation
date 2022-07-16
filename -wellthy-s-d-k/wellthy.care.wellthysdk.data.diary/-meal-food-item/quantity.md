@@ -10,7 +10,7 @@ title: quantity
 
 
 [androidJvm]\
-var [quantity](quantity.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+var [quantity](quantity.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0
 
 
 

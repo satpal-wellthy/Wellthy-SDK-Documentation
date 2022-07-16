@@ -10,7 +10,15 @@ title: trackId
 
 
 [androidJvm]\
-var [trackId](track-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+
+
+
+@SerializedName(value = "trackId")
+
+
+
+var [trackId](track-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?
 
 
 

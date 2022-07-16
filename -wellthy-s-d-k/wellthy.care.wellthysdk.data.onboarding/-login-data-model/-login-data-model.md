@@ -10,7 +10,7 @@ title: LoginDataModel
 
 
 [androidJvm]\
-fun [LoginDataModel](-login-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "")
+fun [LoginDataModel](-login-data-model.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "")
 
 
 
@@ -21,7 +21,7 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code eg (+91/91 for India): mandatory |
+| country_code | Country ISD code eg (+91/91 for India): mandatory |
 | phone | phone no of user: mandatory |
 
 

@@ -10,7 +10,7 @@ title: ThyroidFunctionModel
 
 
 [androidJvm]\
-data class [ThyroidFunctionModel](index.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [ReportMoods](../-report-moods/index.html)?)
+data class [ThyroidFunctionModel](index.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [ReportMood](../-report-mood/index.html)?)
 
 Data class to enter data for addThyroidFunctionLog function
 
@@ -35,7 +35,7 @@ androidJvm
 | [wellthy.care.wellthysdk.data.diary.TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html) |  |
 | [wellthy.care.wellthysdk.data.diary.FREET4Unit](../-f-r-e-e-t4-unit/index.html) |  |
 | [wellthy.care.wellthysdk.data.diary.TSHUnit](../-t-s-h-unit/index.html) |  |
-| [wellthy.care.wellthysdk.data.diary.ReportMoods](../-report-moods/index.html) |  |
+| [wellthy.care.wellthysdk.data.diary.ReportMood](../-report-mood/index.html) |  |
 
 
 
@@ -58,7 +58,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ReportMoods? = null |
+| mood | : ReportMood? = null |
 
 
 
@@ -67,7 +67,7 @@ androidJvm
 
 | | |
 |---|---|
-| [ThyroidFunctionModel](-thyroid-function-model.html) | [androidJvm]<br>fun [ThyroidFunctionModel](-thyroid-function-model.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMoods](../-report-moods/index.html)? = null) |
+| [ThyroidFunctionModel](-thyroid-function-model.html) | [androidJvm]<br>fun [ThyroidFunctionModel](-thyroid-function-model.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMood](../-report-mood/index.html)? = null) |
 
 
 ## Properties
@@ -81,7 +81,7 @@ androidJvm
 | [location_name](location_name.html) | [androidJvm]<br>var [location_name](location_name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
 | [log_date](log_date.html) | [androidJvm]<br>var [log_date](log_date.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [longitude](longitude.html) | [androidJvm]<br>var [longitude](longitude.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
-| [mood](mood.html) | [androidJvm]<br>var [mood](mood.html): [ReportMoods](../-report-moods/index.html)? = null |
+| [mood](mood.html) | [androidJvm]<br>var [mood](mood.html): [ReportMood](../-report-mood/index.html)? = null |
 | [t3](t3.html) | [androidJvm]<br>var [t3](t3.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
 | [t3_unit](t3_unit.html) | [androidJvm]<br>var [t3_unit](t3_unit.html): [T3Unit](../-t3-unit/index.html) |
 | [total_t4](total_t4.html) | [androidJvm]<br>var [total_t4](total_t4.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |

@@ -10,7 +10,7 @@ title: ThyroidFunctionModel
 
 
 [androidJvm]\
-fun [ThyroidFunctionModel](-thyroid-function-model.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMoods](../-report-moods/index.html)? = null)
+fun [ThyroidFunctionModel](-thyroid-function-model.html)(t3: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), t3_unit: [T3Unit](../-t3-unit/index.html), total_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), total_t4_unit: [TOTALT4Unit](../-t-o-t-a-l-t4-unit/index.html), free_t4: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), free_t4_unit: [FREET4Unit](../-f-r-e-e-t4-unit/index.html), tsh: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), tsh_unit: [TSHUnit](../-t-s-h-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMood](../-report-mood/index.html)? = null)
 
 
 
@@ -33,7 +33,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ReportMoods? = null |
+| mood | : ReportMood? = null |
 
 
 

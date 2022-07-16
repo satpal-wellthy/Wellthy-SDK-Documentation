@@ -10,7 +10,7 @@ title: MealFoodItem
 
 
 [androidJvm]\
-fun [MealFoodItem](-meal-food-item.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), trackId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = Constants.generateUniqueTrackId())
+fun [MealFoodItem](-meal-food-item.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 0, quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0)
 
 
 
@@ -23,7 +23,6 @@ androidJvm
 |---|---|
 | id | : String : Id of the mealitem |
 | quantity | : Double : Meal quantity value |
-| trackId | : String : trackid : Optional |
 
 
 

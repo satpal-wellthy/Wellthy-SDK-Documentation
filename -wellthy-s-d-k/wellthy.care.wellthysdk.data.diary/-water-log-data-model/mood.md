@@ -10,7 +10,7 @@ title: mood
 
 
 [androidJvm]\
-var [mood](mood.html): [WaterMoods](../-water-moods/index.html)? = null
+var [mood](mood.html): [WaterMood](../-water-mood/index.html)? = null
 
 
 

@@ -10,7 +10,7 @@ title: CholesterolModel
 
 
 [androidJvm]\
-fun [CholesterolModel](-cholesterol-model.html)(hdl: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), hdl_unit: [CholesterolUnit](../-cholesterol-unit/index.html), ldl: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), ldl_unit: [CholesterolUnit](../-cholesterol-unit/index.html), triglycerides: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), triglycerides_unit: [CholesterolUnit](../-cholesterol-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMoods](../-report-moods/index.html)? = null)
+fun [CholesterolModel](-cholesterol-model.html)(hdl: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), hdl_unit: [CholesterolUnit](../-cholesterol-unit/index.html), ldl: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), ldl_unit: [CholesterolUnit](../-cholesterol-unit/index.html), triglycerides: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), triglycerides_unit: [CholesterolUnit](../-cholesterol-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMood](../-report-mood/index.html)? = null)
 
 
 
@@ -31,7 +31,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ReportMoods? = null |
+| mood | : ReportMood? = null |
 
 
 

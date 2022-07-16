@@ -10,7 +10,7 @@ title: ActivityLogDataModel
 
 
 [androidJvm]\
-fun [ActivityLogDataModel](-activity-log-data-model.html)(activity_type: [ActivityType](../-activity-type/index.html), unit: [ActivityUnit](../-activity-unit/index.html), value: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), steps_count: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ActivityMoods](../-activity-moods/index.html)? = null)
+fun [ActivityLogDataModel](-activity-log-data-model.html)(activity_type: [ActivityType](../-activity-type/index.html), unit: [ActivityUnit](../-activity-unit/index.html), value: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), steps_count: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ActivityMood](../-activity-mood/index.html)? = null)
 
 
 
@@ -29,7 +29,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ActivityMoods? = null |
+| mood | : ActivityMood? = null |
 
 
 

@@ -10,7 +10,7 @@ title: ChatMessageSendRequestModel
 
 
 [androidJvm]\
-fun [ChatMessageSendRequestModel](-chat-message-send-request-model.html)(trackId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), replyMessageId: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)? = null)
+fun [ChatMessageSendRequestModel](-chat-message-send-request-model.html)(track_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), reply_message_id: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)? = null)
 
 
 

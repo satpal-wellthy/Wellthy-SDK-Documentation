@@ -10,7 +10,7 @@ title: LoginDataModel
 
 
 [androidJvm]\
-data class [LoginDataModel](index.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [LoginDataModel](index.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 *IMPORTANT UPDATE* Changed to Model class Data class to enter mandatory data for Login function
 
@@ -42,7 +42,7 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code eg (+91/91 for India): mandatory |
+| country_code | Country ISD code eg (+91/91 for India): mandatory |
 | phone | phone no of user: mandatory |
 
 
@@ -52,7 +52,7 @@ androidJvm
 
 | | |
 |---|---|
-| [LoginDataModel](-login-data-model.html) | [androidJvm]<br>fun [LoginDataModel](-login-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "") |
+| [LoginDataModel](-login-data-model.html) | [androidJvm]<br>fun [LoginDataModel](-login-data-model.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "") |
 
 
 ## Properties
@@ -60,6 +60,6 @@ androidJvm
 
 | Name | Summary |
 |---|---|
-| [countryCode](country-code.html) | [androidJvm]<br>var [countryCode](country-code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [country_code](country_code.html) | [androidJvm]<br>var [country_code](country_code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [phone](phone.html) | [androidJvm]<br>var [phone](phone.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 

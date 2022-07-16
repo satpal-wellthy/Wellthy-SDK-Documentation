@@ -10,7 +10,7 @@ title: BloodPressureLogDataModel
 
 
 [androidJvm]\
-fun [BloodPressureLogDataModel](-blood-pressure-log-data-model.html)(systolic: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), systolic_unit: [SystolicUnit](../-systolic-unit/index.html), diastolic: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), diastolic_unit: [DiastolicUnit](../-diastolic-unit/index.html), heart_rate: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), heart_rate_unit: [HeartRateUnit](../-heart-rate-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [BloodPressureMoods](../-blood-pressure-moods/index.html)? = null)
+fun [BloodPressureLogDataModel](-blood-pressure-log-data-model.html)(systolic: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), systolic_unit: [SystolicUnit](../-systolic-unit/index.html), diastolic: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), diastolic_unit: [DiastolicUnit](../-diastolic-unit/index.html), heart_rate: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), heart_rate_unit: [HeartRateUnit](../-heart-rate-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [BloodPressureMood](../-blood-pressure-mood/index.html)? = null)
 
 
 
@@ -31,7 +31,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : BloodPressureMoods? = null |
+| mood | : BloodPressureMood? = null |
 
 
 

@@ -10,7 +10,7 @@ title: direction
 
 
 [androidJvm]\
-var [direction](direction.html): [GetMessageDirection](../-get-message-direction/index.html)? = null
+var [direction](direction.html): [GetMessageDirection](../-get-message-direction/index.html)
 
 
 

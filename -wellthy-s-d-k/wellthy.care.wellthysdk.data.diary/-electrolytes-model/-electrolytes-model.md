@@ -10,7 +10,7 @@ title: ElectrolytesModel
 
 
 [androidJvm]\
-fun [ElectrolytesModel](-electrolytes-model.html)(sodium: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), sodium_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), potassium: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), potassium_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), chloride: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), chloride_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), bicarbonate: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), bicarbonate_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMoods](../-report-moods/index.html)? = null)
+fun [ElectrolytesModel](-electrolytes-model.html)(sodium: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), sodium_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), potassium: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), potassium_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), chloride: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), chloride_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), bicarbonate: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), bicarbonate_unit: [ElectrolytesUnit](../-electrolytes-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMood](../-report-mood/index.html)? = null)
 
 
 
@@ -33,7 +33,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ReportMoods? = null |
+| mood | : ReportMood? = null |
 
 
 

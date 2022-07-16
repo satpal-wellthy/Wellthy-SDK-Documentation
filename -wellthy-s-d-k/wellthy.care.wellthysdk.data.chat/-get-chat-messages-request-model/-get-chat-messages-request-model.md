@@ -10,7 +10,19 @@ title: GetChatMessagesRequestModel
 
 
 [androidJvm]\
-fun [GetChatMessagesRequestModel](-get-chat-messages-request-model.html)(from_id: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)? = null, type: [GetMessageType](../-get-message-type/index.html)? = null, direction: [GetMessageDirection](../-get-message-direction/index.html)? = null, count: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null)
+fun [GetChatMessagesRequestModel](-get-chat-messages-request-model.html)(from_id: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html), direction: [GetMessageDirection](../-get-message-direction/index.html) = GetMessageDirection.newer, count: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 20)
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| from_id | : if from_id is 0 then most recent "count" no of messages will be fetched |
+| direction | : |
 
 
 

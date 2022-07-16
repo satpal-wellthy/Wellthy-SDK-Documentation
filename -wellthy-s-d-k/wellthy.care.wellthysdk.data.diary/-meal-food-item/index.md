@@ -10,7 +10,7 @@ title: MealFoodItem
 
 
 [androidJvm]\
-data class [MealFoodItem](index.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), trackId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+class [MealFoodItem](index.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
 
 Data class to enter data for add and update meal function : all mandatory
 
@@ -33,7 +33,6 @@ androidJvm
 |---|---|
 | id | : String : Id of the mealitem |
 | quantity | : Double : Meal quantity value |
-| trackId | : String : trackid : Optional |
 
 
 
@@ -42,7 +41,7 @@ androidJvm
 
 | | |
 |---|---|
-| [MealFoodItem](-meal-food-item.html) | [androidJvm]<br>fun [MealFoodItem](-meal-food-item.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), trackId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = Constants.generateUniqueTrackId()) |
+| [MealFoodItem](-meal-food-item.html) | [androidJvm]<br>fun [MealFoodItem](-meal-food-item.html)(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 0, quantity: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0) |
 
 
 ## Properties
@@ -50,7 +49,7 @@ androidJvm
 
 | Name | Summary |
 |---|---|
-| [id](id.html) | [androidJvm]<br>var [id](id.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
-| [quantity](quantity.html) | [androidJvm]<br>var [quantity](quantity.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
-| [trackId](track-id.html) | [androidJvm]<br>var [trackId](track-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [id](id.html) | [androidJvm]<br>var [id](id.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 0 |
+| [quantity](quantity.html) | [androidJvm]<br>var [quantity](quantity.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0 |
+| [trackId](track-id.html) | [androidJvm]<br>@SerializedName(value = "trackId")<br>var [trackId](track-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? |
 

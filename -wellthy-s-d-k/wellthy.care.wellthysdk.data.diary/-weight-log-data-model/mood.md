@@ -10,7 +10,7 @@ title: mood
 
 
 [androidJvm]\
-var [mood](mood.html): [WeightMoods](../-weight-moods/index.html)? = null
+var [mood](mood.html): [WeightMood](../-weight-mood/index.html)? = null
 
 
 

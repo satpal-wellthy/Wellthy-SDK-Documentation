@@ -10,7 +10,7 @@ title: deleteChatMessages
 
 
 [androidJvm]\
-open override fun [deleteChatMessages](delete-chat-messages.html)(chatMessageDeleteModel: [ChatMessageDeleteModel](../../wellthy.care.wellthysdk.data.chat/-chat-message-delete-model/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
+open override fun [deleteChatMessages](delete-chat-messages.html)(message_ids: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)&gt;): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 
@@ -33,7 +33,7 @@ androidJvm
 
 | | |
 |---|---|
-| [wellthy.care.wellthysdk.data.chat.ChatMessageDeleteModel](../../wellthy.care.wellthysdk.data.chat/-chat-message-delete-model/index.html) |  |
+| ChatMessageDeleteModel |  |
 | [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
 
 
@@ -45,7 +45,7 @@ androidJvm
 
 | | |
 |---|---|
-| ChatMessageDeleteModel | : messages property as list of message ids to delete |
+| message_ids | : list of message ids to delete |
 
 
 

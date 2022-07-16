@@ -10,7 +10,21 @@ title: GetMessageDirection
 
 
 [androidJvm]\
-enum [GetMessageDirection](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[GetMessageDirection](index.html)&gt;
+enum [GetMessageDirection](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[GetMessageDirection](index.html)&gt; 
+
+enum class used in get Chat Messages function for
+
+
+
+## See also
+
+
+androidJvm
+
+| | |
+|---|---|
+| [wellthy.care.wellthysdk.data.chat.GetMessageDirection.older](older/index.html) | to get messages having lesser id than passed id |
+| [wellthy.care.wellthysdk.data.chat.GetMessageDirection.newer](newer/index.html) | to get messages having greater id than passed id |
 
 
 
@@ -19,8 +33,8 @@ enum [GetMessageDirection](index.html) : [Enum](https://kotlinlang.org/api/lates
 
 | | |
 |---|---|
-| [GREATER_THAN](-g-r-e-a-t-e-r_-t-h-a-n/index.html) | [androidJvm]<br>[GREATER_THAN](-g-r-e-a-t-e-r_-t-h-a-n/index.html)("greaterThan") |
-| [LESSER_THAN](-l-e-s-s-e-r_-t-h-a-n/index.html) | [androidJvm]<br>[LESSER_THAN](-l-e-s-s-e-r_-t-h-a-n/index.html)("lesserThan") |
+| [newer](newer/index.html) | [androidJvm]<br>[newer](newer/index.html)("greaterThan") |
+| [older](older/index.html) | [androidJvm]<br>[older](older/index.html)("lesserThan") |
 
 
 ## Properties

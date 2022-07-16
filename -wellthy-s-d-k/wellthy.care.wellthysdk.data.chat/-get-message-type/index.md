@@ -10,7 +10,22 @@ title: GetMessageType
 
 
 [androidJvm]\
-enum [GetMessageType](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[GetMessageType](index.html)&gt;
+enum [GetMessageType](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[GetMessageType](index.html)&gt; 
+
+enum class used in get Chat Messages function
+
+
+
+## See also
+
+
+androidJvm
+
+| | |
+|---|---|
+| [wellthy.care.wellthysdk.data.chat.GetMessageType.WITH_CONV_AND_MESSAGEID](-w-i-t-h_-c-o-n-v_-a-n-d_-m-e-s-s-a-g-e-i-d/index.html) |  |
+| BETWEEN_TWO_MESSAGEID |  |
+| [wellthy.care.wellthysdk.data.chat.GetMessageType.LATEST_WITH_CONVERSATIONID](-l-a-t-e-s-t_-w-i-t-h_-c-o-n-v-e-r-s-a-t-i-o-n-i-d/index.html) |  |
 
 
 
@@ -20,7 +35,6 @@ enum [GetMessageType](index.html) : [Enum](https://kotlinlang.org/api/latest/jvm
 | | |
 |---|---|
 | [LATEST_WITH_CONVERSATIONID](-l-a-t-e-s-t_-w-i-t-h_-c-o-n-v-e-r-s-a-t-i-o-n-i-d/index.html) | [androidJvm]<br>[LATEST_WITH_CONVERSATIONID](-l-a-t-e-s-t_-w-i-t-h_-c-o-n-v-e-r-s-a-t-i-o-n-i-d/index.html)("latestWithConversationId") |
-| [BETWEEN_TWO_MESSAGEID](-b-e-t-w-e-e-n_-t-w-o_-m-e-s-s-a-g-e-i-d/index.html) | [androidJvm]<br>[BETWEEN_TWO_MESSAGEID](-b-e-t-w-e-e-n_-t-w-o_-m-e-s-s-a-g-e-i-d/index.html)("betweenTwoMessageId") |
 | [WITH_CONV_AND_MESSAGEID](-w-i-t-h_-c-o-n-v_-a-n-d_-m-e-s-s-a-g-e-i-d/index.html) | [androidJvm]<br>[WITH_CONV_AND_MESSAGEID](-w-i-t-h_-c-o-n-v_-a-n-d_-m-e-s-s-a-g-e-i-d/index.html)("withConvAndMessageId") |
 
 

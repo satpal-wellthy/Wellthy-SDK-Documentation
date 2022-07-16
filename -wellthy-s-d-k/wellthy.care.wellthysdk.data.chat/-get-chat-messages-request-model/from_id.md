@@ -10,7 +10,7 @@ title: from_id
 
 
 [androidJvm]\
-var [from_id](from_id.html): [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)? = null
+var [from_id](from_id.html): [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)
 
 
 

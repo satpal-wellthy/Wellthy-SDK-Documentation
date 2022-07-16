@@ -10,7 +10,7 @@ title: RegisterDataModel
 
 
 [androidJvm]\
-data class [RegisterDataModel](index.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)?, weightUnit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)?, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)?, heightUnit: [HeightUnit](../-height-unit/index.html)?, campaignId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?)
+data class [RegisterDataModel](index.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)?, weight_unit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)?, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)?, height_unit: [HeightUnit](../-height-unit/index.html)?, campaign_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?)
 
 *IMPORTANT UPDATE* Changed to Model class Data class to enter mandatory and optional data for Register function
 
@@ -45,16 +45,16 @@ androidJvm
 
 | | |
 |---|---|
-| countryCode | Country ISD code eg (+91/91 for India): mandatory |
+| country_code | Country ISD code eg (+91/91 for India): mandatory |
 | phone | phone no of user: mandatory |
-| userName | name of user: mandatory |
+| name | name of user: mandatory |
 | deviceId | device id: unique device identifier: optional |
 | dob | dob: pass dob in YYYY-MM-dd format: optional |
 | weight | weight: Int:  optional |
-| weightUnit | WeightUnit : "kg" / "lbs": optional |
+| weight_unit | WeightUnit : "kg" / "lbs": optional |
 | height | height: optional |
-| heightUnit | HeightUnit : "cm" / "feet" : optional |
-| campaignId | Campaign Id to activate the patient therapy: Optional : If not provided it will activate the default therapy |
+| height_unit | HeightUnit : "cm" / "feet" : optional |
+| campaign_id | Campaign Id to activate the patient therapy: Optional : If not provided it will activate the default therapy |
 
 
 
@@ -63,7 +63,7 @@ androidJvm
 
 | | |
 |---|---|
-| [RegisterDataModel](-register-data-model.html) | [androidJvm]<br>fun [RegisterDataModel](-register-data-model.html)(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", userName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weightUnit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, heightUnit: [HeightUnit](../-height-unit/index.html)? = null, campaignId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null) |
+| [RegisterDataModel](-register-data-model.html) | [androidJvm]<br>fun [RegisterDataModel](-register-data-model.html)(country_code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", phone: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = "", deviceId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, dob: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, weight: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, weight_unit: [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null, height: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, height_unit: [HeightUnit](../-height-unit/index.html)? = null, campaign_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null) |
 
 
 ## Properties
@@ -71,14 +71,14 @@ androidJvm
 
 | Name | Summary |
 |---|---|
-| [campaignId](campaign-id.html) | [androidJvm]<br>var [campaignId](campaign-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
-| [countryCode](country-code.html) | [androidJvm]<br>var [countryCode](country-code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [campaign_id](campaign_id.html) | [androidJvm]<br>var [campaign_id](campaign_id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
+| [country_code](country_code.html) | [androidJvm]<br>var [country_code](country_code.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [deviceId](device-id.html) | [androidJvm]<br>var [deviceId](device-id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
 | [dob](dob.html) | [androidJvm]<br>var [dob](dob.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
 | [height](height.html) | [androidJvm]<br>var [height](height.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null |
-| [heightUnit](height-unit.html) | [androidJvm]<br>var [heightUnit](height-unit.html): [HeightUnit](../-height-unit/index.html)? = null |
+| [height_unit](height_unit.html) | [androidJvm]<br>var [height_unit](height_unit.html): [HeightUnit](../-height-unit/index.html)? = null |
+| [name](name.html) | [androidJvm]<br>var [name](name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [phone](phone.html) | [androidJvm]<br>var [phone](phone.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [userName](user-name.html) | [androidJvm]<br>var [userName](user-name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [weight](weight.html) | [androidJvm]<br>var [weight](weight.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null |
-| [weightUnit](weight-unit.html) | [androidJvm]<br>var [weightUnit](weight-unit.html): [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null |
+| [weight_unit](weight_unit.html) | [androidJvm]<br>var [weight_unit](weight_unit.html): [WeightUnit](../../wellthy.care.wellthysdk.data.diary/-weight-unit/index.html)? = null |
 

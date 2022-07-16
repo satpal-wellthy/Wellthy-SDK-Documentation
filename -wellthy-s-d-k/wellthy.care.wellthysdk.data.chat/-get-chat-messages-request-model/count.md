@@ -10,7 +10,7 @@ title: count
 
 
 [androidJvm]\
-var [count](count.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null
+var [count](count.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 20
 
 
 

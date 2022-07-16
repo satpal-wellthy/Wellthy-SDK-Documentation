@@ -10,7 +10,7 @@ title: WBCDifferentialModel
 
 
 [androidJvm]\
-data class [WBCDifferentialModel](index.html)(neutrophile: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), neutrophile_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), lymphocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), lymphocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), monocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), monocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), eosinophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), eosinophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), basophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), basophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), immature_granulocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), immature_granulocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [ReportMoods](../-report-moods/index.html)?)
+data class [WBCDifferentialModel](index.html)(neutrophile: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), neutrophile_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), lymphocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), lymphocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), monocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), monocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), eosinophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), eosinophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), basophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), basophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), immature_granulocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), immature_granulocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, mood: [ReportMood](../-report-mood/index.html)?)
 
 Data class to enter data for addWBCDifferentialCountLog function
 
@@ -32,7 +32,7 @@ androidJvm
 | | |
 |---|---|
 | [wellthy.care.wellthysdk.data.diary.WBCDifferentialUnit](../-w-b-c-differential-unit/index.html) |  |
-| [wellthy.care.wellthysdk.data.diary.ReportMoods](../-report-moods/index.html) |  |
+| [wellthy.care.wellthysdk.data.diary.ReportMood](../-report-mood/index.html) |  |
 
 
 
@@ -59,7 +59,7 @@ androidJvm
 | latitude | : String? = null, |
 | longitude | : String? = null, |
 | location_name | : String? = null, |
-| mood | : ReportMoods? = null |
+| mood | : ReportMood? = null |
 
 
 
@@ -68,7 +68,7 @@ androidJvm
 
 | | |
 |---|---|
-| [WBCDifferentialModel](-w-b-c-differential-model.html) | [androidJvm]<br>fun [WBCDifferentialModel](-w-b-c-differential-model.html)(neutrophile: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), neutrophile_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), lymphocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), lymphocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), monocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), monocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), eosinophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), eosinophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), basophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), basophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), immature_granulocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), immature_granulocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMoods](../-report-moods/index.html)? = null) |
+| [WBCDifferentialModel](-w-b-c-differential-model.html) | [androidJvm]<br>fun [WBCDifferentialModel](-w-b-c-differential-model.html)(neutrophile: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), neutrophile_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), lymphocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), lymphocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), monocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), monocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), eosinophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), eosinophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), basophil: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), basophil_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), immature_granulocyte: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), immature_granulocyte_unit: [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html), log_date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), latitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, longitude: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, location_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mood: [ReportMood](../-report-mood/index.html)? = null) |
 
 
 ## Properties
@@ -90,7 +90,7 @@ androidJvm
 | [lymphocyte_unit](lymphocyte_unit.html) | [androidJvm]<br>var [lymphocyte_unit](lymphocyte_unit.html): [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html) |
 | [monocyte](monocyte.html) | [androidJvm]<br>var [monocyte](monocyte.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
 | [monocyte_unit](monocyte_unit.html) | [androidJvm]<br>var [monocyte_unit](monocyte_unit.html): [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html) |
-| [mood](mood.html) | [androidJvm]<br>var [mood](mood.html): [ReportMoods](../-report-moods/index.html)? = null |
+| [mood](mood.html) | [androidJvm]<br>var [mood](mood.html): [ReportMood](../-report-mood/index.html)? = null |
 | [neutrophile](neutrophile.html) | [androidJvm]<br>var [neutrophile](neutrophile.html): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
 | [neutrophile_unit](neutrophile_unit.html) | [androidJvm]<br>var [neutrophile_unit](neutrophile_unit.html): [WBCDifferentialUnit](../-w-b-c-differential-unit/index.html) |
 

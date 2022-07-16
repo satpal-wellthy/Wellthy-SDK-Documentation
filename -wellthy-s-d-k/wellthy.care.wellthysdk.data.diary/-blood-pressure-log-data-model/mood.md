@@ -10,7 +10,7 @@ title: mood
 
 
 [androidJvm]\
-var [mood](mood.html): [BloodPressureMoods](../-blood-pressure-moods/index.html)? = null
+var [mood](mood.html): [BloodPressureMood](../-blood-pressure-mood/index.html)? = null
 
 
 

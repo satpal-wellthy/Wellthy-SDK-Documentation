@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="v1.0.1 update Jekyll" />
+    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655099530855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v1.0.7 update Jekyll">
+      <created>1657956183816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657956183816</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -97,6 +104,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="v1.0.1 update" />
     <MESSAGE value="v1.0.1 update Jekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.0.1 update Jekyll" />
+    <MESSAGE value="v1.0.7 update Jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.7 update Jekyll" />
   </component>
 </project>

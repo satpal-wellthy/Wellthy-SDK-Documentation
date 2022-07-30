@@ -33,6 +33,7 @@ open class [BaseApiResponse](index.html)
 | [DiaryListingResponse](../../wellthy.care.wellthysdk.data.diary/-diary-listing-response/index.html) |
 | [DailyGoalsTargetResponse](../../wellthy.care.wellthysdk.data.diary/-daily-goals-target-response/index.html) |
 | [CareyInsightDetailResponse](../../wellthy.care.wellthysdk.data.diary/-carey-insight-detail-response/index.html) |
+| [MagazineResponse](../../wellthy.care.wellthysdk.data.magazine/-magazine-response/index.html) |
 | [RegisterResponse](../../wellthy.care.wellthysdk.data.onboarding/-register-response/index.html) |
 | [ValidateSDKResponse](../../wellthy.care.wellthysdk.data.onboarding/-validate-s-d-k-response/index.html) |
 

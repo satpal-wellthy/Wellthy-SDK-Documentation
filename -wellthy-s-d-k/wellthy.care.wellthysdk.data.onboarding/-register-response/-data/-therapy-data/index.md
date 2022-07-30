@@ -10,7 +10,7 @@ title: TherapyData
 
 
 [androidJvm]\
-data class [TherapyData](index.html)(id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), title: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), master_condition: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), comorbilities: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), languages: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [TherapyData](index.html)(id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), title: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), master_condition: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), comorbilities: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias_name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), tags: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), languages: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 
 
@@ -25,5 +25,6 @@ data class [TherapyData](index.html)(id: [String](https://kotlinlang.org/api/lat
 | [id](id.html) | [androidJvm]<br>@SerializedName(value = "id")<br>var [id](id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [languages](languages.html) | [androidJvm]<br>@SerializedName(value = "languages")<br>var [languages](languages.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [master_condition](master_condition.html) | [androidJvm]<br>@SerializedName(value = "master_condition")<br>var [master_condition](master_condition.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [tags](tags.html) | [androidJvm]<br>@SerializedName(value = "tags")<br>var [tags](tags.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [title](title.html) | [androidJvm]<br>@SerializedName(value = "title")<br>var [title](title.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 

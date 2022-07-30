@@ -10,7 +10,7 @@ title: campaign_id
 
 
 [androidJvm]\
-var [campaign_id](campaign_id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+var [campaign_id](campaign_id.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
 
 

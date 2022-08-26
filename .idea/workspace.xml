@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="" />
+    <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-cholesterol-model/-cholesterol-model.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-cholesterol-model/-cholesterol-model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-cholesterol-model/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/-cholesterol-model/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.diary/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/delete-chat-messages.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/delete-chat-messages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/send-chat-message.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/send-chat-message.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/delete-chat-messages.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/delete-chat-messages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/send-chat-message.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/send-chat-message.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -33,7 +33,6 @@ androidJvm
 
 | | |
 |---|---|
-| ChatMessageDeleteModel |  |
 | [wellthy.care.wellthysdk.data.onboarding.BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html) |  |
 
 

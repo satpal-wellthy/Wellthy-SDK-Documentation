@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fafe2bc-c920-4f53-8524-7c2e288f7842" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.api/-api-interface/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-attachment-request-model/-chat-message-attachment-request-model.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-attachment-request-model/-chat-message-attachment-request-model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-attachment-request-model/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-attachment-request-model/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-send-request-model/-chat-message-send-request-model.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-send-request-model/-chat-message-send-request-model.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-send-request-model/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/-chat-message-send-request-model/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.data.chat/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.utils.chat/-m-q-t-t-chat-constants/-companion/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.utils.chat/-m-q-t-t-chat-constants/-companion/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.utils.chat/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk.utils.chat/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/get-favourite-chat-messages.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/get-favourite-chat-messages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-i-wellthy-s-d-k/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/get-favourite-chat-messages.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/get-favourite-chat-messages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/-wellthy-s-d-k/wellthy.care.wellthysdk/-wellthy-s-d-k/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661543266715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v1.1.0 update Jekyll">
+      <created>1663045874854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663045874854</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -117,6 +136,7 @@
     <MESSAGE value="v1.0.1 update Jekyll" />
     <MESSAGE value="v1.0.7 update Jekyll" />
     <MESSAGE value="v1.0.9 update Jekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.0.9 update Jekyll" />
+    <MESSAGE value="v1.1.0 update Jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1.0 update Jekyll" />
   </component>
 </project>

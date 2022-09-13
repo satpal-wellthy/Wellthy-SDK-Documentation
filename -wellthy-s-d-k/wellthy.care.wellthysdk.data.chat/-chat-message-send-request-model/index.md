@@ -12,6 +12,29 @@ title: ChatMessageSendRequestModel
 [androidJvm]\
 data class [ChatMessageSendRequestModel](index.html)(track_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), reply_message_id: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)?)
 
+data class used send messages with attachments
+
+
+
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| track_id |  |
+| message |  |
+| reply_message_id |  |
+
+
+
+## Constructors
+
+
+| | |
+|---|---|
+| [ChatMessageSendRequestModel](-chat-message-send-request-model.html) | [androidJvm]<br>fun [ChatMessageSendRequestModel](-chat-message-send-request-model.html)(track_id: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), reply_message_id: [Long](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)? = null) |
 
 
 ## Properties

@@ -14,4 +14,17 @@ fun [ChatMessageSendRequestModel](-chat-message-send-request-model.html)(track_i
 
 
 
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| track_id |  |
+| message |  |
+| reply_message_id |  |
+
+
+
 

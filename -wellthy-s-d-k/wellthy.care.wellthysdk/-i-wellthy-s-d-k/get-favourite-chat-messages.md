@@ -10,7 +10,7 @@ title: getFavouriteChatMessages
 
 
 [androidJvm]\
-abstract fun [getFavouriteChatMessages](get-favourite-chat-messages.html)(chatMessageModel: [GetChatMessagesRequestModel](../../wellthy.care.wellthysdk.data.chat/-get-chat-messages-request-model/index.html)): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
+abstract fun [getFavouriteChatMessages](get-favourite-chat-messages.html)(): [MutableLiveData](https://developer.android.com/reference/kotlin/androidx/lifecycle/MutableLiveData.html)&lt;[BaseResponse](../../wellthy.care.wellthysdk.data.onboarding/-base-response/index.html)&gt;
 
 
 

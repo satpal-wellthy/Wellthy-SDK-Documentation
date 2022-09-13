@@ -14,4 +14,20 @@ fun [ChatMessageAttachmentRequestModel](-chat-message-attachment-request-model.h
 
 
 
+## Parameters
+
+
+androidJvm
+
+| | |
+|---|---|
+| track_id |  |
+| message |  |
+| reply_message_id |  |
+| attachment | : File :  attachement file to be uploaded |
+| attachment_type | : FileType enum (Mime type) |
+| filePath | : String : Name of the file to be uploaded with extension |
+
+
+
 

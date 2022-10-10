@@ -31,6 +31,7 @@ object [WellthyPrefs](index.html)
 | Name | Summary |
 |---|---|
 | [CHAT_USER_ID](-c-h-a-t_-u-s-e-r_-i-d.html) | [androidJvm]<br>var [CHAT_USER_ID](-c-h-a-t_-u-s-e-r_-i-d.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [CLIENT_ID](-c-l-i-e-n-t_-i-d.html) | [androidJvm]<br>const val [CLIENT_ID](-c-l-i-e-n-t_-i-d.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [COUNTRY_CODE](-c-o-u-n-t-r-y_-c-o-d-e.html) | [androidJvm]<br>const val [COUNTRY_CODE](-c-o-u-n-t-r-y_-c-o-d-e.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [HAS_HC_ACCESS](-h-a-s_-h-c_-a-c-c-e-s-s.html) | [androidJvm]<br>const val [HAS_HC_ACCESS](-h-a-s_-h-c_-a-c-c-e-s-s.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [HC_ID](-h-c_-i-d.html) | [androidJvm]<br>const val [HC_ID](-h-c_-i-d.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
